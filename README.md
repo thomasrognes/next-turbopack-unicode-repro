@@ -15,7 +15,7 @@ The default dependency is pinned to `next@16.5.0-canary.27`.
 
 ## Observed results
 
-On macOS arm64 with Node 24.0.2:
+On macOS arm64 with Node 24.22.1:
 
 | Next.js version | Directory name | Result |
 | --- | --- | --- |
