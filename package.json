@@ -1,0 +1,15 @@
+{
+  "name": "next-turbopack-unicode-repro",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack --hostname 127.0.0.1",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "16.5.0-canary.27",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  }
+}
