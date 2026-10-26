@@ -9,7 +9,7 @@ npm ci
 npm run dev
 ```
 
-Open http://127.0.0.1:3000/.
+Open http://localhost:3000/.
 
 The default dependency is pinned to `next@16.5.0-canary.27`.
 
